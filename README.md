@@ -164,7 +164,7 @@ npm run start       # locally
 App’s UI and key features:
 
    <p align="center">
-     <img src="/UI-DOCS.png" alt="UI Overview" width="300" />
+     <img src="/UI-DOCS.png" alt="UI Overview" width="900" />
    </p>
 
 5. **Commit & Push**
